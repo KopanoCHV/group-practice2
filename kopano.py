@@ -1,3 +1,3 @@
 kopano = 100
 
-print(kopano);
+print(kopano)
